@@ -1,0 +1,39 @@
+.container {
+    margin: auto;
+    text-align: center;
+    width: 1330px;
+  }
+  
+  .search-box {
+    background-color: #eeeeee;
+    width: 10%;
+  }
+  
+  .box1 {
+    width: 10%;
+    background: #7ee5da;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .box2 {
+    width: 5%;
+    background: #70ccc2;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+  }
+
+  .box3 {
+    width: 11%;
+    background: #62b3aa;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+  }
+  
+  .boyut {
+    font-size: small;
+  }
+  /* Footer
+  © 2023 GitHub, Inc. */
